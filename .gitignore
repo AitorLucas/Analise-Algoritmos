@@ -1,0 +1,33 @@
+# Ignore para o projeto C++ (Cpp/)
+Cpp/build/
+Cpp/bin/
+Cpp/obj/
+Cpp/*.o
+Cpp/*.out
+Cpp/*.exe
+Cpp/CMakeFiles/
+Cpp/CMakeCache.txt
+Cpp/Makefile
+Cpp/*.log
+
+# Ignore para o projeto Python (Python/)
+Python/__pycache__/
+Python/*.pyc
+Python/*.pyo
+Python/*.pyd
+Python/.venv/
+Python/env/
+Python/.env
+Python/.pytest_cache/
+Python/.mypy_cache/
+Python/*.log
+
+# Ignorar arquivos de ambiente e IDEs em geral
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Cache de sistema
+.DS_Store
+Thumbs.db

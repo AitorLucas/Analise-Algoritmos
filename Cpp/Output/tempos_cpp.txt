@@ -1,0 +1,15 @@
+InsertionSort 1000: 0.00153717s
+SelectionSort 1000: 0.0028405s
+BubbleSort 1000: 0.00550887s
+MergeSort 1000: 0.000427483s
+QuickSort 1000: 0.000132764s
+InsertionSort 10000: 0.117167s
+SelectionSort 10000: 0.230204s
+BubbleSort 10000: 0.555888s
+MergeSort 10000: 0.00477462s
+QuickSort 10000: 0.00160054s
+InsertionSort 100000: 12.2489s
+SelectionSort 100000: 21.5038s
+BubbleSort 100000: 52.4631s
+MergeSort 100000: 0.0514817s
+QuickSort 100000: 0.0190709s
