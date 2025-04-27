@@ -21,6 +21,7 @@ Python/.env
 Python/.pytest_cache/
 Python/.mypy_cache/
 Python/*.log
+*.pyc
 
 # Ignorar arquivos de ambiente e IDEs em geral
 .vscode/
