@@ -7,7 +7,6 @@ Cpp/*.out
 Cpp/*.exe
 Cpp/CMakeFiles/
 Cpp/CMakeCache.txt
-Cpp/Makefile
 Cpp/*.log
 
 # Ignore para o projeto Python (Python/)
